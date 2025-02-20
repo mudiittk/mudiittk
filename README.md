@@ -1,14 +1,16 @@
-## Hi there 👋
+## Hi I'm Mudit 👋
 
 - 🎯 Experienced in **Market Research & Data Analytics**
 - 💡 Skilled in **SQL, Power BI, Excel, Python (ML Basics)**
-- 🛠️ Currently exploring **Data and Business Analytics** 
+- 🛠️ Currently exploring opportunities in **Data and Business Analytics** 
 - 📊 Passionate about turning data into meaningful insights 
   
 ## 🔧 Tech & Tools  
 ### **Languages & Databases**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
 ### **Tools & Frameworks**
